@@ -1,0 +1,30 @@
+{
+  "name": "unit--",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelinaVB/Unit--.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelinaVB/Unit--/issues"
+  },
+  "homepage": "https://github.com/AngelinaVB/Unit--#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.2",
+    "jest": "^29.7.0",
+    "webpack": "^5.99.9"
+  },
+  "dependencies": {
+    "core-js": "^3.42.0"
+  }
+}
